@@ -1,0 +1,272 @@
+---
+farmers:
+- name: 布川農園 布川好男さん ［芹沢］
+  produces: 夏：トマト・ナス／冬：ホウレンソウ・野菜全般
+  special: 無農薬栽培に近い方法
+  available: 直売所
+  latitude: '35.332404211257355'
+  longitude: '139.40431360000002'
+  address: 茅ヶ崎市新栄町13-44 さがみ農協茅ヶ崎支店1F
+  days: 営業日：1月1日〜10日を除く毎日(布川さんのグループは月、水、金、日)
+  hours: 営業時間：10時〜17時
+  phone: 連絡先：さがみ農協茅ヶ崎営農センター 0467-51-2311
+- name: 鎮野稔さん ［芹沢］
+  produces: 柿などの果樹・ナス・オクラ・大根・人参など露地野菜
+  special: 食の安全のため生産履歴を徹底しています。
+  available: ピアノ・美術館めぐり
+  latitude: '35.332404211257355'
+  longitude: '139.40431360000002'
+  address: 茅ヶ崎市新栄町13-44 さがみ農協茅ヶ崎支店1F
+  days: 営業日：1月1日〜10日を除く毎日(鎮野さんのグループは月、水、金、日)
+  hours: 営業時間：10時〜17時
+  phone: 連絡先：さがみ農協茅ヶ崎営農センター 0467-51-2311
+- name: 斉藤牧場 斉藤忠道さん ［芹沢］
+  produces: 肉牛（交雑種100頭・黒毛和種40頭）
+  special: <a href="http://locoplace.jp/t000090243/" target="_blank">http://locoplace.jp/t000090243/</a>
+  available: 海草やミネラルを含むエサを与え「くどくない脂質」の牛肉が自慢です。
+  latitude: '35.37944321127697'
+  longitude: '139.4246733'
+  address: 茅ヶ崎市芹沢397-1
+  days: 営業日：不定休
+  hours: 営業時間：10時〜17時
+  phone: 連絡先：0467-51-0128
+- name: 清水農園 清水俊朗さん ［中島］
+  produces: カブ・大根・人参・時季の野菜
+  special: 味のいい野菜を選び、堆肥には馬ふんを使い、独自の肥料を使う。
+  available: 直売所・わいわい市・市場出荷
+  latitude: '35.33308061125763'
+  longitude: '139.37540739999997'
+  address: 茅ヶ崎市中島253
+  days: 営業日：毎日
+  hours: 営業時間：9時〜
+  phone: 連絡先：0467-82-4458
+- name: 橋村農園 橋村美佐江さん ［香川］
+  produces: 玉ねぎ・ジャガ芋・ナス・きゅうり・さつま芋・ほうれん草・その他旬の露地野菜
+  special: 季節ごとに栽培可能で、食卓にのりやすい、おいしい旬の露地野菜作り。
+  available: 直売所
+  latitude: '35.354081711266396'
+  longitude: '139.405077'
+  address: 茅ヶ崎市香川1-27-6
+  days: 営業日：ほぼ毎日（日・祝は不定）
+  hours: 営業時間：10時頃～
+  phone: 連絡先：0467-51-1429
+- name: 廣瀬農園 廣瀬清子さん ［堤］
+  produces: カブ・白菜・季節の野菜・切り花（8月の盆菊・9月の彼岸菊）・加工品（漬物）
+  special: 新鮮な野菜を作ること
+  available: 直売所・わいわい市・生協
+  latitude: '35.365836511271304'
+  longitude: '139.42263730000002'
+  address: 茅ヶ崎市堤
+  days: 営業日：毎日（休む時もあります）
+  hours: 営業時間：8:00～17:00くらいまで
+  phone: 連絡先：0467-54-2410
+- name: 斎藤賢一さん ［下寺尾］
+  produces: 野菜全般
+  special: まず自分が食べるものだから、もちろん低農薬、有機肥料。
+  available: 直売所・わいわい市・茅ヶ崎海辺の朝市
+  latitude: '35.362339112780965'
+  longitude: '139.41041270000005'
+  address: 茅ヶ崎市下寺尾1479
+  days: 営業日：毎日（休む時もあります）
+  hours: 営業時間：9:00〜
+  phone: 連絡先：0467-51-8700
+- name: 相澤正幸さん ［萩園］
+  produces: スイトピー・マスクメロン・露地切り花
+  special: 買ってくれた人達に怒られない商品を作りたい
+  available: 直売所・わいわい市
+  latitude: '35.34943416132793'
+  longitude: '139.37967310000005'
+  address: 茅ヶ崎市萩園743
+  days: 営業日：随時（作物があるとき）
+  hours: 営業時間：随時
+  phone: 連絡先：0467-57-0164
+- name: 岩澤康夫さん ［西久保］
+  produces: トマト
+  special: ほっぺたが落ちそうなくらいおいしいトマトを作っています！
+  available: 直売所・わいわい市
+  latitude: '35.34568'
+  longitude: '139.394728'
+  address: 茅ヶ崎市西久保677
+  days: 営業日：3月〜12月
+  hours: 営業時間：8:00〜17:00
+  phone: 連絡先：0467-57-4418
+- name: 小澤繁隆さん・良子さん ［赤羽根］
+  produces: ほうれん草・じゃがいも・枝豆・とうもろこし
+  special: 減農薬を心がけた農業を営んでいます。
+  available: 朝市・直売所
+  latitude: '35.348817461326526'
+  longitude: '139.4358647'
+  address: 茅ヶ崎市赤羽根2774
+  days: 営業日：ほぼ毎日
+  hours: 営業時間：9:00頃〜夕方まで
+  phone: 連絡先：—
+- name: Blue in Green 高橋 栄さん ［南湖］
+  produces: 通年：季節の花苗・寄せ植え・ハンギング・リース
+  special: <a href="http://www13.ocn.ne.jp/~b-in-g/" target="_blank">http://www13.ocn.ne.jp/~b-in-g/</a>
+  available: 朝市・直売所
+  latitude: '35.318344161257436'
+  longitude: '139.39363729999997'
+  address: 茅ヶ崎市南湖6-6-32
+  days: 営業日：水〜日（月・火定休）
+  hours: 営業時間：10:00〜17:00（12月〜2月は16:00まで）
+  phone: 連絡先：0467-82-2366
+- name: 奥津花園　奥津秋雄さん ［中島］
+  produces: シクラメン・一般草花
+  special: ー
+  available: わいわい市・直売所
+  latitude: '35.329220675359274'
+  longitude: '139.37363231691893'
+  address: 茅ヶ崎市中島1370
+  days: 営業日：
+  hours: 営業時間：8時〜18時頃まで
+  phone: 連絡先：0467-88-2008
+- name: 石井基久雄さん ［西久保］
+  produces: 柿・ぶどう・梨・スイートピー
+  special: 果樹、花、野菜、と様々なカテゴリーの農作物を育てていること。
+  available: わいわい市・直売所
+  latitude: '35.34932636132768'
+  longitude: '139.3953969'
+  address: 茅ヶ崎市西久保1548
+  days: 営業日：品物がある時（柿：11〜12月・梨／ぶどう：8月・スイートピー：12〜4月）
+  hours: 営業時間：7時〜18時頃まで
+  phone: 連絡先：0467-85-3475
+- name: 米山光雄さん［芹沢］
+  produces: 大根・ほうれん草・なす等路地野菜全般
+  special: <a href="http://nouenndayori.blog40.fc2.com/" target="_blank">http://nouenndayori.blog40.fc2.com/</a>
+  available: 父の代から続いている直売所が応援してくださる方々のおかげで30年を越えました。地域に根ざした生産、販売が続けられていること。
+  latitude: '35.372504'
+  longitude: '139.426597'
+  address: —
+  days: 営業日：日・月・水・金
+  hours: 営業時間：8時〜8時40分頃まで
+  phone: 連絡先：0467-51-0911
+- name: 三堀園 三堀政行さん［西久保］
+  produces: 梨・ブドウ・米
+  special: 果樹、米を主体にした農家です。
+  available: 直売所・わいわい市
+  latitude: '35.350251'
+  longitude: '139.395139'
+  address: 茅ヶ崎市西久保1607
+  days: 営業日：8月〜9月末の毎日
+  hours: 営業時間：9時〜18時
+  phone: 連絡先：0467-57-6743
+- name: 石坂園 石坂豊治さん ［浜之郷］
+  produces: シクラメン・花だん苗
+  special: みなさんに喜んでもらえる花づくり。
+  available: 直売所・わいわい市
+  latitude: '35.337792'
+  longitude: '139.392195'
+  address: 茅ヶ崎市浜之郷412
+  days: 営業日：一年中
+  hours: 営業時間：9時〜18時
+  phone: 連絡先：0467-86-2595
+- name: ひらまき園　平牧強さん ［柳島］
+  produces: ぶどう、季節野菜、ほうれん草、小松菜等の葉菜類、珍しいものではパクチーなど。
+  special: フードリサイクル肥料を使い、環境に優しい農業を試行中。
+  available: 朝市、直売所、わいわい市、市場出荷
+  latitude: '35.323943'
+  longitude: '139.383632'
+  address: 茅ヶ崎市柳島1丁目9番地（コープ柳島店横）
+  days: 営業日：8月上旬〜9月下旬
+  hours: 営業時間：8時〜18時
+  phone: 連絡先：0467-85-1806
+- name: Farmer's Wagon 伊藤英世さん ［本村］
+  produces: 季節の露地野菜
+  special: <a href="http://www.shonan-style.jp/farmers-wagon/" target="_blank">http://www.shonan-style.jp/farmers-wagon/</a>
+  available: 野菜の美味しい食べ方を提案できる。
+  latitude: '35.330068'
+  longitude: '139.421112'
+  address: 茅ヶ崎市松ヶ丘1-1-92
+  days: 営業日：毎週火金
+  hours: 営業時間：10:00〜17:00
+  phone: 連絡先：0467-51-3296
+- name: 石井農園 石井邦男さん ［芹沢］
+  produces: 栗・柿
+  special: お客様に満足して頂く栗や柿を丹精込めて育て、喜んでもらえること
+  available: 直売所・わいわい市
+  latitude: '35.378143'
+  longitude: '139.412571'
+  address: 茅ヶ崎市芹沢3322
+  days: 営業日：毎日（休日は不定休）
+  hours: 営業時間：09:00〜16:00
+  phone: 連絡先：0467-51-0217
+- name: 小澤農園 小澤晴一さん ［赤羽根］
+  produces: ほうれん草・小松菜
+  special: 直売所
+  available: 家族の輪
+  latitude: '35.348556'
+  longitude: '139.434381'
+  address: 茅ヶ崎市赤羽根宝積寺前
+  days: 営業日：不定期
+  hours: 営業時間：06：00〜17:00
+  phone: 連絡先：0467-52-1941
+- name: 寿園 石井寿一さん ［堤］
+  produces: ぶどう・なし
+  special: 直売所・わいわい市
+  available: 茅ヶ崎にも山梨のぶどうに負けない藤稔があることをもっと知ってほしいです。
+  latitude: '35.366062'
+  longitude: '139.424401'
+  address: 茅ヶ崎市堤1640
+  days: 営業日：8/10〜9/15
+  hours: 営業時間：09:00〜17:00
+  phone: 連絡先：0467-51-0246
+- name: マルナオ園 市川芳男さん ［芹沢］
+  produces: ぶどう・柿
+  special: <a href="http://marunao.fc2web.com" target="_blank">http://marunao.fc2web.com</a>
+  available: 販売小屋内のドライフラワーや庭に咲くハーブや草花が心を和ませてくれます。シンボルツリーのナンキンハゼは11月の紅葉が美しいです。
+  latitude: '35.381163'
+  longitude: '139.427268'
+  address: 茅ヶ崎市芹沢330
+  days: 営業日：農産物のある時
+  hours: 営業時間：9:30頃〜17:00頃
+  phone: 連絡先：0467-51-0442
+- name: 市川園 市川隆雄さん ［芹沢］
+  produces: ハウストマト・ハウスきゅうり・果物
+  special: 七色畑。いろいろな野菜を作っています。
+  available: 直売所・わいわい市・マルエツ茅ヶ崎店
+  latitude: '35.38244'
+  longitude: '139.426748'
+  address: 茅ヶ崎市芹沢349
+  days: 営業日：不定休（果樹メイン）
+  hours: 営業時間：—
+  phone: 連絡先：0467-51-0143
+- name: 伊右衛門農園 三橋清高さん ［香川］
+  produces: 野菜全般
+  special: <a href="http://members.jcom.home.ne.jp/iemon/" target="_blank">http://members.jcom.home.ne.jp/iemon/</a>
+  available: 作付けする野菜の品目と品種の数。それらを毎年継続的に出荷できる輪作大系と技術。
+  latitude: '35.361042'
+  longitude: '139.401385'
+  address: 茅ヶ崎市香川7-10-23
+  days: 営業日：毎日営業（年末年始除く）
+  hours: 営業時間：9:30〜
+  phone: 連絡先：0467-51-3445
+- name: 川島農園 川島忠さん ［下寺尾］
+  produces: 鉢花・花苗・野菜苗・切花
+  special: 手作りの花苗、野菜苗等に加え、年間いつでも30品種以上の品揃え。色々と組み合わせて楽しんでいます。
+  available: 朝市・直売所・わいわい市
+  latitude: '35.36615'
+  longitude: '139.406588'
+  address: 茅ヶ崎市下寺尾1603
+  days: 営業日：年中無休
+  hours: 営業時間：9:00〜17:00
+  phone: 連絡先：0467-54-0960
+- name: 清水進さん ［西久保］
+  produces: トマト・きゅうり・季節野菜
+  special: 多品目は作っていない代わりに、少ない品目を人一倍手を掛けて作ること
+  available: 直売所・わいわい市
+  latitude: '35.345974'
+  longitude: '139.395569'
+  address: 茅ヶ崎市西久保672
+  days: 営業日：ー
+  hours: 営業時間：ー
+  phone: 連絡先：ー
+- name: 種屋 高橋芳嗣さん ［円蔵］
+  produces: ネギ・ニンジン・ブロッコリー・小松菜
+  special: 珍しい野菜をつくること、荷姿を奇麗にすること
+  available: 朝市・直売所・わいわい市
+  latitude: '35.342988'
+  longitude: '139.396139'
+  address: 茅ヶ崎市円蔵2596
+  days: 営業日：年中無休
+  hours: 営業時間：7:00〜18:00
+  phone: 連絡先：0467-82-3564
