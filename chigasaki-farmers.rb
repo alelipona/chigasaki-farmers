@@ -49,7 +49,7 @@ class ChigasakiFarms
     # Save the list of individual farmer's URL to a yaml file
     db = YAML::Store.new(@config[:file_url])
     db.transaction do
-      db['url'] = url
+      db[:url] = url
     end
   end
 
@@ -79,15 +79,15 @@ class ChigasakiFarms
           if lines[1] == '//<![CDATA['
             lines.each do |l|
               if /(\d*\.\d*), (\d*\.\d*)/ =~ l
-                farmer['latitude']  = $1
-                farmer['longitude'] = $2
+                farmer[:latitude]  = $1
+                farmer[:longitude] = $2
                 
               elsif /住所：(.*)\'\, offset\)/u =~ l
                 info = $1.split("<br />")
-                farmer['address'] = info[0]
-                farmer['days']    = info[1]
-                farmer['hours']   = info[2]
-                farmer['phone']   = info[3]
+                farmer[:address] = info[0]
+                farmer[:days]    = info[1]
+                farmer[:hours]   = info[2]
+                farmer[:phone]   = info[3]
               end
             end
           end
@@ -100,7 +100,7 @@ class ChigasakiFarms
     # Save farmer's data to a yaml
     db = YAML::Store.new(@config[:file_farmers])
     db.transaction do
-      db['farmers'] = farmers
+      db[:farmers] = farmers
     end
   end
   
@@ -108,9 +108,9 @@ class ChigasakiFarms
   def outputCsv()
     db  = YAML.load_file(@config[:file_farmers])
     csv = CSV.open(@config[:file_csv],'w') do |writer|
-      db['farmers'].each do |farmer|
+      db[:farmers].each do |farmer|
         
-        writer << [farmer['name'],farmer['phone'].delete('連絡先：'),farmer['latitude'],farmer['longitude'],farmer['address'],farmer['hours'].delete('営業時間：'),farmer['days'].delete('営業日：'),farmer['available'],farmer['produces'],farmer['special']]
+        writer << [farmer[:name],farmer[:phone].delete('連絡先：'),farmer[:latitude],farmer[:longitude],farmer[:address],farmer[:hours].delete('営業時間：'),farmer[:days].delete('営業日：'),farmer[:available],farmer[:produces],farmer[:special]]
       end
     end
 
