@@ -52,7 +52,16 @@ module Chigasaki
       end # script.each
       return farmer
     end # @a.get
-
   end # get_detail()
+
+  # Output farmers data to a CSV file
+  def output_csv()
+    db  = YAML.load_file(@config[:file_farmers])
+    csv = CSV.open(@config[:file_csv],'w') do |writer|
+      db[:farmers].each do |farmer|
+        writer << [farmer[:name],farmer[:phone],farmer[:latitude],farmer[:longitude],farmer[:address],farmer[:hours],farmer[:days],farmer[:available],farmer[:produces],farmer[:special]]
+      end
+    end
+  end # output_csv
 
 end

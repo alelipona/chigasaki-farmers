@@ -1,15 +1,589 @@
 ---
 :farmers:
-- :name: Local Food Directory - FARRINGTON'S FARM SHOP and RESTAURANT - Localfoods.org.ukFARRINGTON'S
-    FARM SHOP & RESTAURANT
-  :stree: Home Farm
+- :name: FARRINGTON'S FARM SHOP & RESTAURANT
+  :street: Home Farm
   :postcode: BS39 6UB
   :city: Main Street
   :county: Bath and NE Somerset
-  :website: Website
-  :contact: ! 'Contact Person: Andy and Tish Jeffery'
-  :days: ''
-  :hours: ! 'Opening Hours: Mon-Sat: 08.00-19.00. Sun & Bank Hols: 09.00-17.00'
-  :phone: ! 'Phone: 01761 452266'
-  :awards: ! "FARMA Farm Retailer of the Year 2004\r\nFARMA Farm Retailer of the Year
-    2012"
+  :url: http://www.farringtons.co.uk
+  :contact: Andy and Tish Jeffery
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: ! 'Mon-Sat: 08.00-19.00. Sun & Bank Hols: 09.00-17.00'
+  :facilities: Farm Shop,On-farm Cafe,Butchery,Deli,Toilets,Parking,Fish counter,Christmas
+    Trees,Farm Attraction
+  :phone: 01761 452266
+  :products: Bread,Eggs,Honey,Preserves,Fruit,Cream,Cakes,Vegetables,Pies,Cheese,Meat
+    - poultry,Juices,Game,Frozen items,Organic foods,Meat - beef,Sausages,Meat - bacon,Herbs,Asparagus,Meat
+    - lamb,Fish,Wine,Beer,Ready-to-eat meals,Chrismas Trees,Turkeys,Gifts
+  :awards: FARMA Farm Retailer of the Year 2004FARMA Farm Retailer of the Year 2012
+  :farma: 1
+  :go: 1
+  :goal: 1
+  :butchery: 1
+  :deli: 1
+  :attraction: 1
+  :store: 1
+  :fish: 1
+  :cafe: 1
+  :parking: 1
+  :toilets: 1
+  :latitude: '51.29653'
+  :longitude: '-2.52598'
+- :name: MOSELEY FARMERS' MARKET
+  :postcode: B13 8HW
+  :county: Birmingham
+  :url: http://www.moseleyfarmersmarket.org.uk
+  :contact: David Isgrove
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: 9.00-15.00
+  :phone: 0121 449 3156
+  :awards: FARMA Farmers' Market of the Year 2012
+  :farma: 1
+  :latitude: '52.44685'
+  :longitude: '-1.886945'
+- :name: QUEENS PARK FARMERS' MARKET
+  :postcode: NW6 6RG
+  :county: London and M25
+  :url: http://www.lfm.org.uk
+  :contact: Cheryl Cohen
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: 10.00-14.00.  Tues 23 Dec 12.00-14.00
+  :phone: 020 7833 0338
+  :awards: FARMA Farmers' Market of the Year 2012
+  :farma: 1
+  :latitude: '51.536741'
+  :longitude: '-0.20620'
+- :name: RECTORY FARM
+  :note: Asparagus. Lettuce. Ready picked to order/delivery.
+  :street: Stanton St John
+  :postcode: OX33 1HF
+  :city: Oxford
+  :county: Oxfordshire
+  :url: http://www.kbsuk.com/demo/rectoryfarm/
+  :contact: Richard and Carla Stanley
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: Mon-Sun:9.30-19.00
+  :facilities: Farm Shop,Pick Your Own,Attends Farmers' Markets
+  :phone: 01865 351677
+  :awards: FARMA Pick Your Own Farm of the Year 2012
+  :farma: 1
+  :go: 1
+  :pick: 1
+  :store: 1
+  :latitude: '51.77988'
+  :longitude: '-1.16856'
+- :name: ESSINGTON FRUIT FARM
+  :note: Extensive PYO. Home made bakery. Pumpkins and squash. Country tea room
+  :street: Bognop Road
+  :postcode: WV11 2AZ
+  :city: Essington
+  :county: Staffordshire
+  :url: http://www.essingtonfarm.co.uk
+  :contact: Richard and Mary Simkin
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: Tues-Sun 9.00-5.00 Mon-Sun 9.00-8.00 during PYO season - Check website for
+    details
+  :facilities: Farm Shop,Pick Your Own,On-farm Cafe,Maze,Attends Farmers' Markets,Farm
+    Attraction
+  :phone: 01902 735724
+  :products: Bread,Eggs,Preserves,Fruit,Vegetables
+  :awards: FARMA Own & Local Farm Retailer of the Year 2012
+  :farma: 1
+  :pick: 1
+  :attraction: 1
+  :store: 1
+  :cafe: 1
+  :latitude: '52.63136'
+  :longitude: '-2.059764'
+- :name: KILNFORD BARNS
+  :street: Ingleston
+  :postcode: DG2 9TR
+  :city: Irongray
+  :county: Dumfries and Galloway
+  :contact: John Rome
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :facilities: Farm Shop
+  :phone: 01387 720207
+  :awards: FARMA Rising Star 2012
+  :farma: 1
+  :store: 1
+  :latitude: '55.07596'
+  :longitude: '-4.141837'
+- :name: HOPETOUN FARM SHOP
+  :note: Buy the best of food and drink that Scotland has to offer - premium quality
+    at affordable  prices. Try the range of  "Scotland's Finest Food", carefully selected  by
+    Lord and Lady Hopetoun.  Beef, lamb, game and poultry are reared on  the fields
+    of the Estate. Hopetoun Farm Shop is a custom-designed,  delightful food shopping
+    environment with dedicated Butcher,  Delicatessen, Bakery and Fresh Vegetable
+    Counters and a delicious range  of Hopetoun's specially prepared meals. The location
+    in a wooded setting  just off the A904 is only five minutes drive from the Forth
+    Road  Bridge.
+  :street: Hopetoun Woods
+  :postcode: EH52 6QZ
+  :city: Newton
+  :county: West Lothian
+  :url: http://www.hopetoun.co.uk/Farm-shop-home.html
+  :contact: Michael Eagers
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: ! 'The Hopetoun Farm Shop is open 7 days a week with a fabulous range of
+    fresh, locally-sourced produce.  Opening hours are:Mon - Sun: 10.00am - 5.00pm'
+  :facilities: Farm Shop,Butchery,Deli
+  :phone: 01506 830716
+  :awards: Winner of FARMA 2012 Rising Star Award.
+  :farma: 1
+  :butchery: 1
+  :deli: 1
+  :store: 1
+  :latitude: '55.98076421835619'
+  :longitude: '-3.4813807407837203'
+- :name: ROB ROYD FARM SHOP
+  :note: Newly opened farm shop on land owned by the farm; stone building with in-house
+    bakery, butchery and deli. Farm produces fruit and veg, beef, lamb, pork and eggs.  Bakery
+    produces speciality breads e.g.using Spelt flour, own pies, cakes and ready meals.
+    Making own sausages, curing bacon on site; deli has wide range of cooked meats
+    and cheeses. Also a range of home-made preserves.
+  :street: Rob Royd Farm
+  :postcode: S70 6NW
+  :city: Genn Lane
+  :county: South Yorkshire
+  :url: http://www.robroydfarmshop.co.uk/
+  :contact: Robert White
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :facilities: Farm Shop
+  :phone: 01226 248662
+  :awards: FARMA Rising Star 2012
+  :farma: 1
+  :store: 1
+  :latitude: '53.46969'
+  :longitude: '-1.34396'
+- :name: COWDRAY FARM SHOP
+  :note: Farm shop and cafe, with on-site butcher - meat is from the Cowdray Estate.
+    Bakery on site, using flour from the Cowdray Estate. Lots of lovely local food.
+  :street: Cowdray Park
+  :postcode: GU29 0AJ
+  :city: Midhurst
+  :county: West Sussex
+  :url: http://www.cowdrayfarmshop.co.uk
+  :contact: Fiona Hamilton-Fox
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :facilities: Farm Shop,On-farm Cafe,Farm Accomodation
+  :phone: 01730 812799
+  :awards: FARMA on-farm Cafe-Restaurant of the Year 2012
+  :farma: 1
+  :accomodation: 1
+  :store: 1
+  :cafe: 1
+  :latitude: '50.99663'
+  :longitude: '-0.728394'
+- :name: CWMCERRIG FARM SHOP & GRILL
+  :note: Farm Shop opened on 19 February 2009 based on the Watkins family farm. Famous
+    locally for fruit and veg delivery, farm shop sells own beef and lamb, turkeys,
+    chickens, eggs and local produce from Carmarthenshire and a little further afield.
+  :street: Gorslas
+  :postcode: SA14 7HU
+  :city: Llanelli
+  :county: Carmarthenshire
+  :contact: Roland Watkins
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :facilities: Farm Shop,On-farm Cafe
+  :phone: 01269 844 405
+  :awards: FARMA Best Farm Retail Newcomer 2012
+  :farma: 1
+  :store: 1
+  :cafe: 1
+  :latitude: '51.80187'
+  :longitude: '-4.06702'
+- :name: THE ORGANIC FARM SHOP
+  :note: With cafe and woodland walk, opened summer 1999.
+  :street: Abbey Home Farm
+  :postcode: GL7 5HF
+  :city: Burford Road
+  :county: Gloucestershire
+  :url: http://www.theorganicfarmshop.co.uk
+  :contact: Hilary Chester-Master
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: ! 'Shop: Tues, Wed, thurs, Sat  9 - 17.00 (cafe 16.30)  Fri 9 - 18.30 (cafe
+    17.00)  Sat 09.00-18.00 (cafe 17.00 Sun 11.00-16.00 (cafe 15.30)'
+  :facilities: Farm Shop,On-farm Cafe,Educational facilities,Conference facilities,Toilets,Parking
+  :phone: 01285 640441
+  :products: Eggs,Honey,Fruit,Cream,Cakes,Vegetables,Pies,Cheese,Meat - beef,Sausages,Meat
+    - bacon,Meat - lamb
+  :awards: FARMA Environmental Farm Retailer of the Year 2012
+  :farma: 1
+  :store: 1
+  :cafe: 1
+  :parking: 1
+  :toilets: 1
+  :latitude: '51.72739558573507'
+  :longitude: '-1.9354903051757901'
+- :name: TULLEYS FARM
+  :note: Extensive PYO. Pet food. Ice cream. Biscuits. Dri. flowers. Cards. Gifts.
+  :street: Turners Hill
+  :postcode: RH10 4PE
+  :city: Crawley
+  :county: West Sussex
+  :url: http://www.tulleysfarm.com
+  :contact: Stuart Beare
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: FS:Mon-Sun:9.00-18.00. PYO:Mon-Sun:9.30-20.00 in season
+  :facilities: Farm Shop,Pick Your Own,On-farm Cafe,Maze,Halloween events,Farm Attraction
+  :phone: ! '01342 718472 / PYO: 01342 715365'
+  :products: Bread,Eggs,Honey,Preserves,Fruit,Cream,Cakes,Vegetables,Pies,Cheese,Meat
+    - poultry,Juices,Herbs
+  :awards: FARMA Seasonal Attraction of the Year 2012
+  :farma: 1
+  :attraction: 1
+  :store: 1
+  :cafe: 1
+  :latitude: '51.10454'
+  :longitude: '-0.08517'
+- :name: FODDER
+  :note: Est 1837 as agricultural charity to promote farming and countryside and run
+    the Great Yorkshire Show. As part of this commitment, opened a farm shop  in Spring
+    09
+  :street: Great Yorkshire Showground
+  :postcode: HG2 8NZ
+  :city: Harrogate
+  :county: North Yorkshire
+  :url: http://www.fodderweb.co.uk
+  :contact: Heather Parry
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :facilities: Farm Shop,On-farm Cafe
+  :phone: 01423 546111/541000
+  :awards: FARMA Judges' Special Award 2012
+  :farma: 1
+  :store: 1
+  :cafe: 1
+  :latitude: '53.99469'
+  :longitude: '-1.544524'
+- :name: MOSELEY FARMERS' MARKET
+  :postcode: B13 8HW
+  :county: Birmingham
+  :url: http://www.moseleyfarmersmarket.org.uk
+  :contact: David Isgrove
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: 9.00-15.00
+  :phone: 0121 449 3156
+  :awards: FARMA Farmers' Market of the Year 2012
+  :farma: 1
+  :latitude: '52.44685'
+  :longitude: '-1.886945'
+- :name: BASHALL BARN
+  :note: Converted stone barn and new Food Visitor Centre building, set in lovely
+    views. Coffee shop and ice cream parlour (see the ice cream being made on site),
+    overlooking the cow maternity unit.  Award winning restaurant serving dishes made
+    with locally sourced, seasonal ingredients. On-site artisan producers.  Winner
+    of the FARMA award for the UK's best on-farm restaurant, Made in Lancashire Highest
+    Quality Assured, Finalist in the Taste Lancashire Awards 2010. Ample free parking,
+    Toilets, easy access for disabled
+  :street: Bashall Town
+  :postcode: BB7 3LQ
+  :city: Clitheroe
+  :county: Lancashire
+  :url: http://www.bashallbarn.co.uk
+  :contact: Simon Barnes
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: 09.00-17.00 7-days a week
+  :facilities: Farm Shop,On-farm Cafe,On-farm Restaurant,Deli,Conference facilities,Toilets,Parking,Walks,Christmas
+    Trees,Weddings
+  :phone: 01200 428964
+  :products: Bread,Eggs,Honey,Preserves,Fruit,Cream,Cakes,Vegetables,Pies,Cheese,Juices,Frozen
+    items,Wine,Beer,Ready-to-eat meals,Chrismas Trees,Turkeys,Gifts
+  :awards: Best on-farm cafe/restaurant 2008
+  :farma: 1
+  :deli: 1
+  :store: 1
+  :cafe: 1
+  :parking: 1
+  :toilets: 1
+  :latitude: '53.87465'
+  :longitude: '-2.44035'
+- :name: CHATSWORTH FARM SHOP
+  :note: Winner of Farm Retailer of the Year and Best On-farm Butchery at the  2009
+    and 2011 FARMA awards, Chatsworth farm shop offers quality produce  fresh from
+    the estate, tenant farms, Derbyshire suppliers and small food  producers.Our traditional
+    butchers will guide you through the  vast array of meat, poultry and game. Delicious
+    home-cooked meats and  pies are available from the delicatessen counter, and our
+    bakery  provides wonderful fresh bread and cakes.
+  :street: Stud Farm
+  :postcode: DE45 1UF
+  :city: Pilsley
+  :county: Derbyshire
+  :url: http://www.chatsworth.org
+  :contact: Andre Birkett
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: ! 'Mon-Sat: 09.00-17.30.  Sun 11.00-17.00'
+  :facilities: Farm Shop,On-farm Cafe,On-farm Restaurant,Butchery,Deli,Toilets,Parking,Walks,Fish
+    counter
+  :phone: 01246 583392
+  :products: Bread,Eggs,Honey,Preserves,Fruit,Cream,Cakes,Vegetables,Pies,Cheese,Meat
+    - poultry,Juices,Game,Frozen items,Organic foods,Meat - beef,Sausages,Meat - bacon,Herbs,Asparagus,Meat
+    - lamb,Fish,Wine,Beer,Ready-to-eat meals,Turkeys,Gifts
+  :awards: Farm Retailer of the Year 2011Farm Retailer of the Year 2009
+  :farma: 1
+  :butchery: 1
+  :deli: 1
+  :store: 1
+  :fish: 1
+  :cafe: 1
+  :parking: 1
+  :toilets: 1
+  :latitude: '53.23424930632472'
+  :longitude: '-1.6385181421890138'
+- :name: COWDRAY FARM SHOP
+  :note: Farm shop and cafe, with on-site butcher - meat is from the Cowdray Estate.
+    Bakery on site, using flour from the Cowdray Estate. Lots of lovely local food.
+  :street: Cowdray Park
+  :postcode: GU29 0AJ
+  :city: Midhurst
+  :county: West Sussex
+  :url: http://www.cowdrayfarmshop.co.uk
+  :contact: Fiona Hamilton-Fox
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :facilities: Farm Shop,On-farm Cafe,Farm Accomodation
+  :phone: 01730 812799
+  :awards: FARMA on-farm Cafe-Restaurant of the Year 2012
+  :farma: 1
+  :accomodation: 1
+  :store: 1
+  :cafe: 1
+  :latitude: '50.99663'
+  :longitude: '-0.728394'
+- :name: DEDDINGTON FARMERS' MARKET
+  :street: Market Place
+  :postcode: OX15 0SD
+  :city: Deddington
+  :county: Oxfordshire
+  :url: http://www.deddington.org.uk/community/farmersmarket
+  :contact: Geoffrey Todd
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: ! 'Fourth Saturday, monthly: 09.00-12.30'
+  :phone: 01869 338532
+  :awards: In 2006 the late Charles Newey, founder of the Deddington Farmers' Market,
+    was recognised with the FARMA Community Spirit Award
+  :farma: 1
+  :latitude: '51.98136339191982'
+  :longitude: '-1.3216093485489182'
+- :name: ESSINGTON FRUIT FARM
+  :note: Extensive PYO. Home made bakery. Pumpkins and squash. Country tea room
+  :street: Bognop Road
+  :postcode: WV11 2AZ
+  :city: Essington
+  :county: Staffordshire
+  :url: http://www.essingtonfarm.co.uk
+  :contact: Richard and Mary Simkin
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: Tues-Sun 9.00-5.00 Mon-Sun 9.00-8.00 during PYO season - Check website for
+    details
+  :facilities: Farm Shop,Pick Your Own,On-farm Cafe,Maze,Attends Farmers' Markets,Farm
+    Attraction
+  :phone: 01902 735724
+  :products: Bread,Eggs,Preserves,Fruit,Vegetables
+  :awards: FARMA Own & Local Farm Retailer of the Year 2012
+  :farma: 1
+  :pick: 1
+  :attraction: 1
+  :store: 1
+  :cafe: 1
+  :latitude: '52.63136'
+  :longitude: '-2.059764'
+- :name: FARMER COPLEYS
+  :street: Ravensknowle Farm
+  :postcode: WF7 5AF
+  :city: Pontefract Road
+  :county: West Yorkshire
+  :url: http://www.farmercopleys.co.uk
+  :contact: Robert and Heather Copley
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: ! 'Farm Shop: Mon-Fri: 09:00-18:00. Sat: 09:00-17.30. Sun & Bank Hols: 09:00-16:00.
+    Moo Cafe: Mon-Fri: 09:00-18:00 (last orders 17.30). Sat 09:00-17.30 (last orders
+    16.30). Sun & Bank Hols: 09:00-16:00 (last orders 15.30)'
+  :facilities: Farm Shop,On-farm Cafe,Butchery,Parking
+  :phone: 01977 600200
+  :products: Eggs,Honey,Preserves,Cakes,Vegetables,Pies,Cheese,Meat - poultry,Juices,Meat
+    - beef,Sausages,Meat - bacon,Meat - lamb,Ready-to-eat meals,Turkeys
+  :awards: FARMA Farm Retailer of the Year 2008
+  :farma: 1
+  :butchery: 1
+  :store: 1
+  :cafe: 1
+  :parking: 1
+  :latitude: '53.68804994356039'
+  :longitude: '-1.3182825256728847'
+- :name: FARNDON FIELDS FARM SHOP
+  :street: Farndon Road
+  :postcode: LE16 9NP
+  :city: Market Harborough
+  :county: Leicestershire
+  :url: http://www.farndonﬁeldsfarmshop.co.uk
+  :contact: Contact the ofﬁce at Farndon Felds
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: ! 'Monday-Saturday: 08.00-18.00.  Sundays and bank holidays: 10.00-16.00Closed
+    Christmas and Easter Sunday.'
+  :facilities: Farm Shop,On-farm Cafe,On-farm Restaurant,Butchery,Deli,Toilets,Parking,Christmas
+    Trees
+  :phone: 01858 464838
+  :products: Bread,Eggs,Honey,Preserves,Fruit,Cream,Cakes,Vegetables,Pies,Cheese,Meat
+    - poultry,Juices,Frozen items,Meat - beef,Sausages,Meat - bacon,Herbs,Asparagus,Meat
+    - lamb,Wine,Beer,Ready-to-eat meals,Chrismas Trees,Turkeys,Gifts
+  :awards: ! 'FARMA National Winner: Farm Retailer of the Year 2008'
+  :farma: 1
+  :butchery: 1
+  :deli: 1
+  :store: 1
+  :cafe: 1
+  :parking: 1
+  :toilets: 1
+  :latitude: '52.47043419318247'
+  :longitude: '-0.9335795836059333'
+- :name: FARRINGTON'S FARM SHOP & RESTAURANT
+  :street: Home Farm
+  :postcode: BS39 6UB
+  :city: Main Street
+  :county: Bath and NE Somerset
+  :url: http://www.farringtons.co.uk
+  :contact: Andy and Tish Jeffery
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: ! 'Mon-Sat: 08.00-19.00. Sun & Bank Hols: 09.00-17.00'
+  :facilities: Farm Shop,On-farm Cafe,Butchery,Deli,Toilets,Parking,Fish counter,Christmas
+    Trees,Farm Attraction
+  :phone: 01761 452266
+  :products: Bread,Eggs,Honey,Preserves,Fruit,Cream,Cakes,Vegetables,Pies,Cheese,Meat
+    - poultry,Juices,Game,Frozen items,Organic foods,Meat - beef,Sausages,Meat - bacon,Herbs,Asparagus,Meat
+    - lamb,Fish,Wine,Beer,Ready-to-eat meals,Chrismas Trees,Turkeys,Gifts
+  :awards: FARMA Farm Retailer of the Year 2004FARMA Farm Retailer of the Year 2012
+  :farma: 1
+  :go: 1
+  :goal: 1
+  :butchery: 1
+  :deli: 1
+  :attraction: 1
+  :store: 1
+  :fish: 1
+  :cafe: 1
+  :parking: 1
+  :toilets: 1
+  :latitude: '51.29653'
+  :longitude: '-2.52598'
+- :name: GARSONS ESHER
+  :note: Comprhensive PYO. Extensive garden centre. Swimming pool shop. Pet foods.
+    Cut flowers.
+  :street: Winterdown Road
+  :postcode: KT10 8LS
+  :city: Esher
+  :county: Surrey
+  :url: http://www.garsons.co.uk
+  :contact: Peter Thompson
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: ! 'Mon-Sat: 09.00-17.00. Sun: 11.00-17.00'
+  :facilities: Farm Shop,Pick Your Own,On-farm Cafe,On-farm Restaurant,Butchery,Deli,Toilets,Parking,Christmas
+    Trees
+  :phone: 01372 464778
+  :products: Bread,Eggs,Honey,Preserves,Fruit,Cream,Cakes,Vegetables,Pies,Cheese,Meat
+    - poultry,Juices,Game,Frozen items,Meat - beef,Sausages,Meat - bacon,Herbs,Asparagus,Meat
+    - lamb,Fish,Wine,Beer,Ready-to-eat meals,Chrismas Trees,Turkeys,Gifts
+  :awards: Pick-Your-Own of the Year 2010
+  :farma: 1
+  :butchery: 1
+  :deli: 1
+  :store: 1
+  :cafe: 1
+  :parking: 1
+  :toilets: 1
+  :latitude: '51.36245728107369'
+  :longitude: '-0.38517700132752'
+- :name: GONALSTON FARM SHOP
+  :note: Multi-Award-winning Gonalston Farm Shop, established in 2003, has over 100
+    years of butchery experience to be proud of in the family. Home-grown Continental
+    and traditional beef breeds assure consistent quality and flavour to savour. Exceptional
+    wet fish counter, offering oysters to Halibut. Delicatessen and charcuiterie,
+    well-stocked with over 100 English, territorial and Continental cheeses, many
+    of them World Cheese Award winners.  Unique ambient foods to tempt your taste
+    buds, Great Taste Award-winning foods galore.  Sensational fresh artisan bread
+    delivered daily.  Cut flowers, plants, confectionery, cards and gifts for any
+    occasion. Specialist hampers always available. You will not be disappointed. Five
+    Stars Food Hygiene Certified. 
+  :street: Southwell Road
+  :postcode: NG14 7DR
+  :county: Nottinghamshire
+  :url: http://www.gonalstonfarmshop.co.uk
+  :contact: Ross and Georgina Mason
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: ! 'Tues-Sat: 09.00-18.30. Sun & bank holidays 10.00-16.00'
+  :facilities: Farm Shop,Butchery,Deli,Toilets,Parking,Fish counter
+  :phone: 0115 966 5666
+  :products: Bread,Eggs,Honey,Fruit,Cream,Cakes,Vegetables,Pies,Cheese,Meat - poultry,Juices,Frozen
+    items,Meat - beef,Sausages,Meat - bacon,Herbs,Asparagus,Meat - lamb,Fish,Wine,Beer,Ready-to-eat
+    meals,Chrismas Trees,Turkeys,Gifts
+  :awards: FARMA Best Farm Retail Newcomer 2004
+  :farma: 1
+  :butchery: 1
+  :deli: 1
+  :store: 1
+  :fish: 1
+  :parking: 1
+  :toilets: 1
+  :latitude: '53.01483857319326'
+  :longitude: '-0.9914771781349145'
+- :name: MOORHOUSE FARM SHOP & COFFEE SHOP
+  :street: 21 Station Road
+  :postcode: NE61 6DX
+  :city: Stannington
+  :county: Northumberland
+  :url: http://www.moorhousefarmshop.co.uk
+  :contact: Ian and Victoria Byatt
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: Tues-Sat 09.30-17.30.  Sun 10.00-16.00. Closed Mons
+  :facilities: Farm Shop,On-farm Cafe,Butchery,Deli,Toilets,Parking,Christmas Trees,Attends
+    Farmers' Markets
+  :phone: 01670 789016
+  :products: Bread,Eggs,Honey,Preserves,Fruit,Cakes,Vegetables,Pies,Cheese,Meat -
+    poultry,Juices,Meat - beef,Sausages,Meat - bacon,Herbs,Meat - lamb,Ready-to-eat
+    meals,Chrismas Trees,Turkeys
+  :awards: Best on-farm butchery 2008
+  :farma: 1
+  :go: 1
+  :goal: 1
+  :pick: 1
+  :butchery: 1
+  :deli: 1
+  :store: 1
+  :cafe: 1
+  :parking: 1
+  :toilets: 1
+  :latitude: '55.127380615668926'
+  :longitude: '-1.6653261322632034'
+- :name: THE PINK PIG FARM SHOP & RESTAURANT
+  :note: Farm shop selling homegrown free range pork, lamb and eggs, our homegrown
+    vegetables and loads of local goodies, plus homemade cakes, soups, ready meals
+    and our famous Scotch eggs. Lovely restaurant/cafe and a farm adventure trail
+    for the children.
+  :street: Holme Hall
+  :postcode: DN16 3RE
+  :city: Holme
+  :county: Lincolnshire
+  :url: http://www.pinkpigfarm.co.uk
+  :contact: Andrew and Sally Jackson
+  :season: February,March,April,May,June,July,August,September,October,November,December,January
+  :days: ! 'Mon-Sat: 09.30-17.00. Sun & Bank Hols: 10.00-16.00'
+  :facilities: Farm Shop,On-farm Cafe,On-farm Restaurant,Butchery,Deli,Educational
+    facilities,Toilets,Parking,Christmas Trees,Attends Farmers' Markets,Halloween
+    events,Farm Attraction
+  :phone: 01724 844466
+  :products: Bread,Eggs,Honey,Preserves,Fruit,Cream,Cakes,Vegetables,Pies,Cheese,Meat
+    - poultry,Juices,Game,Frozen items,Organic foods,Meat - beef,Sausages,Meat - bacon,Herbs,Asparagus,Meat
+    - lamb,Fish,Wine,Beer,Ready-to-eat meals,Chrismas Trees,Turkeys,Gifts
+  :awards: Farm Retailer of the Year 2006
+  :farma: 1
+  :go: 1
+  :goal: 1
+  :pick: 1
+  :butchery: 1
+  :deli: 1
+  :attraction: 1
+  :store: 1
+  :cafe: 1
+  :parking: 1
+  :toilets: 1
+  :latitude: '53.549936045192375'
+  :longitude: '-0.6297230240478484'

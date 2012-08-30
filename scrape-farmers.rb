@@ -50,6 +50,8 @@ class ScrapeFarmers
     @a = Mechanize.new { |agent|
       agent.user_agent_alias = 'Mac Safari'
     }
+    @fields = [:name,:phone,:latitude,:longitude,:postcode,:street,:city,:county,:open,:close,:days,:season,:holiday,:url,:accomodation,:attraction,:butchery,:cafe,:camp,:csa,:course,:deli,:farm,:farma,:fish,:go,:goal,:organic,:market,:parking,:pick,:store,:toilets,:interest,:source,:note,:facilities,:products,:awards,:contact,:email]
+    
   end
 
   # Scrap individual farmer's pages
@@ -58,29 +60,16 @@ class ScrapeFarmers
     db = YAML.load_file(@config[:file_url])
     farmers = []
     
-    url = db['url'][0]
-    # db['url'].each do |url|
+    # url = ''
+    db['url'].each do |url|
       farmers.push(get_farmer(url))
-    # end
+    end
 
     # Save farmer's data to a yaml
     db = YAML::Store.new(@config[:file_farmers])
     db.transaction do
       db[:farmers] = farmers
     end
-  end
-
-  # Output farmers data to a CSV file
-  def output_csv()
-    db  = YAML.load_file(@config[:file_farmers])
-    csv = CSV.open(@config[:file_csv],'w') do |writer|
-      db[:farmers].each do |farmer|
-        
-        writer << [farmer[:name],farmer[:phone],farmer[:latitude],farmer[:longitude],farmer[:address],farmer[:hours],farmer[:days],farmer[:available],farmer[:produces],farmer[:special]]
-        
-      end
-    end
-
   end
 
   def output_json()
@@ -90,6 +79,7 @@ class ScrapeFarmers
       JSON.dump(data, io)
     end
   end
+  
 end
 
 # Main program, initialize the class and call methods by ARGV[0]
